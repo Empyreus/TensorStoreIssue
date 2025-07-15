@@ -9,8 +9,11 @@
 ## Reproduction Build Steps
 
 mkdir build
+
 cd build
+
 cmake ..
+
 make -j8
 
 
